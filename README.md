@@ -1,5 +1,6 @@
 # mralvpwgen
 By Álvaro González Moya
+For Python 2.7
 1. BASIC EXPLANATION:
 
   This is a Python script I made in just one day (i will be updating it) which generates you a list of passwords using the data
