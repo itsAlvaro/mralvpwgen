@@ -1,5 +1,4 @@
 # mralvpwgen
-By Álvaro González Moya
 For Python 2.7
 1. BASIC EXPLANATION:
 
